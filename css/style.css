@@ -1,0 +1,23 @@
+.my-nav {
+  background-color: #ff6600;
+}
+
+.my-nav ul {
+  margin:10px 0;
+}
+
+body {
+  padding-top: 70px;
+}
+
+#about {
+  padding-top: 80px;
+}
+
+#my-work {
+  padding-top: 80px;
+}
+
+#contact-me {
+  padding-top: 80px
+}
